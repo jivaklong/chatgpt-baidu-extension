@@ -41,13 +41,9 @@ Baidu, Google, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
 
 ### 如何在Brave中发挥作用
 
-![Screenshot](screenshots/brave.png?raw=true)
-
 禁用中的“阻止网站根据我的语言偏好为我添加指纹”`brave://settings/shields`
 
 ### 如何在Opera中发挥作用
-
-![Screenshot](screenshots/opera.png?raw=true)
 
 在扩展管理页面中启用“允许访问搜索页面结果”
 
