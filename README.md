@@ -31,7 +31,7 @@ Baidu, Google, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
 
 <img width="1481" alt="image" src="https://user-images.githubusercontent.com/10142906/217597404-09cd7322-639d-45f1-95ed-a5e3fbecf7a4.png">
 
-禁用中的“阻止网站根据我的语言偏好为我添加指纹”`brave://settings/shields`
+禁用中的“阻止网站根据我的语言偏好为我添加指纹”
 
 ### 如何在Opera中发挥作用
 
