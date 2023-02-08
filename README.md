@@ -5,13 +5,11 @@ ChatGPT 对百度,GOOGLE等搜索引擎对GOOGLE、火狐等插件
 
 Goole浏览器扩展插件，用于显示ChatGPT响应以及百度和其他搜索引擎结果
 
-## Supported Search Engines
+## 支持搜索引擎
 
 Baidu, Google, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
 
-## Screenshot
-
-## Features
+## 特征
 
 -支持所有流行的搜索引擎
 -支持官方OpenAI API
