@@ -1,6 +1,8 @@
 # ChatGPT for baidu
-# 
+
 Goole浏览器扩展插件，用于显示ChatGPT响应以及百度和其他搜索引擎结果
+<img width="1481" alt="image" src="https://user-images.githubusercontent.com/10142906/217600014-7b4429f4-69e9-4825-abd6-03e1fd55dfa9.png">
+
 
 ## 支持搜索引擎
 
@@ -21,7 +23,8 @@ Baidu, Google, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
 ## 故障排除
 
 ### 如何在Brave中发挥作用
-禁用中的“阻止网站根据我的语言偏好为我添加指纹”`brave://settings/shields`
+<img width="1374" alt="image" src="https://user-images.githubusercontent.com/10142906/217600248-b216bfdf-57c3-45fe-a539-e4f46373176d.png">
+禁用中的“阻止网站根据我的语言偏好为我添加指纹”
 
 ### 如何在Opera中发挥作用
 在扩展管理页面中启用“允许访问搜索页面结果”
