@@ -51,7 +51,7 @@ Baidu, Google, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
 ### 2.运行环境
 
 支持 Linux、MacOS、Windows 系统（可在Linux服务器上长期运行)，同时需安装 `nodejs`。 
-我这边使用的是HBuilder编辑器下载
+我这边使用的是HBuilder编辑器编译
 
 ## 克隆项目代码：
 
