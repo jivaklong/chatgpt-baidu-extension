@@ -7,22 +7,10 @@ Goole浏览器扩展插件，用于显示ChatGPT响应以及百度和其他搜�
 <p dir="auto"><a href="https://www.evdian.com/plug/browser/chromium.zip" rel="nofollow">安装Chrome浏览器插件,已编绎好插件</a></p>
 <p dir="auto"><a href="https://www.evdian.com/plug/browser/firefox.zip" rel="nofollow">安装火狐浏览器插件,已编绎好插件</a></p>
 
-## 支持搜索引擎
-
-Baidu, Google, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
-
-## 特征
-
--支持所有流行的搜索引擎
--支持官方OpenAI API
--标记渲染
--代码亮点
--黑暗模式
--提供反馈以改进ChatGPT
--复制到剪贴板
--自定义触发模式
--切换语言
-
+# 谷歌浏览器插件安装
+1:谷歌浏览点击右上角三个点,更多工具,扩展程序
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/10142906/217693030-3c14cc9f-4b9f-4f64-96f5-1ff1fa618f21.png">
+2:把下载下来的chromium.zip拖入到浏览器插件安装即可
 
 ### 浏览器参数配置
 <img width="1374" alt="image" src="https://user-images.githubusercontent.com/10142906/217600248-b216bfdf-57c3-45fe-a539-e4f46373176d.png">
@@ -48,7 +36,7 @@ Baidu, Google, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
 2. 把 OPENAI_API_KEY 填入配置参数API key进行保存。
 <img width="889" alt="image" src="https://user-images.githubusercontent.com/10142906/217688641-da36bc8a-a2bc-4b64-8324-4ae31a2a5e78.png">
 
-### 2.运行环境
+### 运行环境
 
 支持 Linux、MacOS、Windows 系统（可在Linux服务器上长期运行)，同时需安装 `nodejs`。 
 我这边使用的是HBuilder编辑器编译
@@ -63,6 +51,22 @@ cd chatgpt-baidu-extension/
 2. 安装 `npm`
 3. `npm run build`
 4. 加载 `build/chromium/` or `build/firefox/` 目录到你的浏览器插件
+
+## 支持搜索引擎
+
+Baidu, Google, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
+
+## 特征
+
+-支持所有流行的搜索引擎
+-支持官方OpenAI API
+-标记渲染
+-代码亮点
+-黑暗模式
+-提供反馈以改进ChatGPT
+-复制到剪贴板
+-自定义触发模式
+-切换语言
 
 ## 灵感
 
