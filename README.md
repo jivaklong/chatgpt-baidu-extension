@@ -46,9 +46,9 @@ git clone https://github.com/jivaklong/chatgpt-baidu-extension
 cd chatgpt-baidu-extension/
 ```
 ## 编泽源码
-2. 安装 `npm`
-3. `npm run build`
-4. 加载 `build/chromium/` or `build/firefox/` 目录到你的浏览器插件
+1. 安装 `npm`
+2. `npm run build`
+3. 加载 `build/chromium/` or `build/firefox/` 目录到你的浏览器插件
 
 ## 支持搜索引擎
 
