@@ -4,8 +4,8 @@ Goole浏览器扩展插件，用于显示ChatGPT响应以及百度和其他搜�
 <img width="1481" alt="image" src="https://user-images.githubusercontent.com/10142906/217600014-7b4429f4-69e9-4825-abd6-03e1fd55dfa9.png">
 
 # 基于谷歌,火狐浏览器插件，用于显示ChatGPT响应以及百度搜索引擎插件下载
-<p dir="auto"><a href="https://www.evdian.com/plug/browser/chromium.zip" rel="nofollow">安装Chrome浏览器插件</a></p>
-<p dir="auto"><a href="https://www.evdian.com/plug/browser/firefox.zip" rel="nofollow">安装火狐浏览器插件</a></p>
+<p dir="auto"><a href="https://www.evdian.com/plug/browser/chromium.zip" rel="nofollow">安装Chrome浏览器插件,已编绎好插件</a></p>
+<p dir="auto"><a href="https://www.evdian.com/plug/browser/firefox.zip" rel="nofollow">安装火狐浏览器插件,已编绎好插件</a></p>
 
 ## 支持搜索引擎
 
