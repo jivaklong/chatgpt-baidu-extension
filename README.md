@@ -28,8 +28,8 @@ Goole浏览器扩展插件，用于显示ChatGPT响应以及百度和其他搜�
 
 > 获取你的 OPENAI_API_KEY:
 >
-> - 打开 [https://platform.openai.com/overview](https://platform.openai.com/overview) 并登录注册，进入网页。
-
+> - 打开 [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys) 并登录注册，进入网页,。
+<img width="1495" alt="image" src="https://user-images.githubusercontent.com/10142906/217698073-0ab61a52-f425-4772-a85f-9a3e4af2c306.png">
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/2777249/1675413138418-d5df2543-bd37-41cc-a16c-505c5a38e88d.png)
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/2777249/1675413190188-4cf10947-ea7f-479d-9550-0dec9d40c0e2.png?x-oss-process=image%2Fresize%2Cw_1500%2Climit_0)
 
