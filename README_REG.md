@@ -1,4 +1,4 @@
-一元注册OpenAI账号使用ChatGPT
+# 一元注册OpenAI账号使用ChatGPT
 
 一、准备工作
 1、因为需要访问外国网站，所以需要FQ，先介绍如何免费FQ。
