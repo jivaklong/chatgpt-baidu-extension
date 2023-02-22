@@ -1,3 +1,5 @@
+一元注册OpenAI账号使用ChatGPT
+
 一、准备工作
 1、因为需要访问外国网站，所以需要FQ，先介绍如何免费FQ。
 https://going.92merry.top/auth/register?code=ud8e 先用邮箱（qq、163、钉钉邮箱都行）注册一个账号，注册账号会免费送2G的访问国外网络的流量。
