@@ -2,16 +2,9 @@
 
 一、准备工作
 1、因为需要访问外国网站，所以需要FQ，先介绍如何免费FQ。
-https://going.92merry.top/auth/register?code=ud8e 先用邮箱（qq、163、钉钉邮箱都行）注册一个账号，注册账号会免费送2G的访问国外网络的流量。
+https://arr013.network/download/ 不需要注册, 直接下载即可使用。免费的有时不稳定, 可以多连接几次
 
-![image](https://user-images.githubusercontent.com/10142906/220526823-acec7372-0772-4034-aca8-51969b80dc30.png)
-
-2、然后按右边步骤1和2操作即可
-![image](https://user-images.githubusercontent.com/10142906/220526853-cbbab17f-7d51-4184-92c5-fa285fb88263.png)
-
-3、节点选“韩国”，其他的就不用管了。
-![image](https://user-images.githubusercontent.com/10142906/220526887-60099040-b3b8-475b-8a1c-90e7d00a5645.png)
-
+<img width="972" alt="image" src="https://user-images.githubusercontent.com/10142906/221331048-de8741ab-8af1-45ea-99ac-825047d32782.png">
 
 这个时候我们就具备访问国外网的条件了，接下来第二步。
 二、openAi账号注册
