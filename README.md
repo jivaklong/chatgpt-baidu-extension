@@ -1,7 +1,7 @@
 # ChatGPT for baidu
 
 
-[Awesome ChatGPT API](Awesome ChatGPT API.md)
+[Awesome ChatGPT API](Awesome_ChatGPT_API.md)
 
 Goole浏览器扩展插件，用于显示ChatGPT响应以及百度和其他搜索引擎结果
 <img width="1481" alt="image" src="https://user-images.githubusercontent.com/10142906/217600014-7b4429f4-69e9-4825-abd6-03e1fd55dfa9.png">
